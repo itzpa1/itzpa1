@@ -1,12 +1,12 @@
-<h2 align="left">Hey! 馃憢</h2>
+<h2 align="left">Hey! 👋</h2>
 
 ###
 
-<p align="left">I'm Pawan Kumar! 馃懆鈥嶐煉�<br><br>- 馃捇 Currently : Practicing Data Analyst!!<br>- 馃捇 Previously : Questions on Leetcode</p>
+<p align="left">I'm Pawan Kumar! 👋<br><br>- 👨‍💻 Currently : Practicing Data Analyst!!<br>- 👨‍💻 Previously : Questions on Leetcode</p>
 
 ###
 
-<h2 align="left">馃洜锔廘anguage & Social</h2>
+<h2 align="left"> 🛠️ Language & Social</h2>
 
 ###
 
