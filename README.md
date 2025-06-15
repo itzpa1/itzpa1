@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Pawan Kumar! 👋<br><br>- 👨‍💻 Currently : Practicing Data Analyst!!<br>- 👨‍💻 Previously : Questions on Leetcode</p>
+<p align="left">I'm Pawan Kumar! 👋<br><br>- 👨‍💻 Web DEV<br>- 👨‍💻 Graphic Designer<br>- 👨‍💻 APP DEV</p>
 
 ###
 
@@ -29,19 +29,19 @@
 ###
 
 <div align="left">
-  <a href="youtube.com/@itz_pa1" target="_blank">
+  <a href="https://youtube.com/@itz_pa1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/itz_pa1" target="_blank">
+  <a href="https://instagram.com/code.itzpa1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="pawankumarfz12@gmail.com" target="_blank">
+  <a href="mailto:pawankumarfz12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/itzpa1" target="_blank">
+  <a href="https://linkedin.com/in/itzpa1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="codepen.io/itz_pa1" target="_blank">
+  <a href="https://codepen.io/itz_pa1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
