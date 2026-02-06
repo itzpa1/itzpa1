@@ -1,5 +1,6 @@
 ## 👋Hey! I'm <a href="https://instagram.com/code.itzpa1/">PAWAN.DEV</a> ![](https://komarev.com/ghpvc/?username=itzpa1)
 
+![Banner.png](banner.png)
 ---
 
 ### 👨‍💻 Web DEV &bull; 📱 App DEV &bull; 🎨 Graphic Designer &bull; 📺 Video Editor
